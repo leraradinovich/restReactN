@@ -1,0 +1,16 @@
+Examples:
+
+~Used FlatList for large list rendering (provides efficient memory usage)
+
+~May use React.memo when its needed (prevent unnecessary re-renders)
+
+~Avoided inline styles
+
+~Minimized third-party libraries
+
+~Removed all console
+
+~Adjusted image sizes
+
+~Used Hermes
+
